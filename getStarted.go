@@ -29,4 +29,7 @@ func main() {
 	var linkExample = "https://gobyexample.com/"
 	fmt.Println("link = ", linkExample)
 
+	// TO RUN GO : go run file.go
+	// TO BUILD GO : go build file.go than .\file
+
 }
